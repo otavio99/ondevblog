@@ -23,7 +23,7 @@ Neste post irei abordar:
 - [Fato 6 - Você não precisa ou deve pagar para ter uma oportunidade real](#fato-6---você-não-precisa-ou-deve-pagar-para-ter-uma-oportunidade-real)
 - [*Bonus - Como dar o primeiro passo.](#bonus---como-dar-o-primeiro-passo)
 
-Ao final, você será capaz de diferenciar melhor uma boa oportunidade de uma fraude,
+Ao final, você será capaz de diferenciar uma boa oportunidade de uma fraude,
 e de quebra saberá como dar o primeiro passo para uma fonte de renda alternativa caso
 isso seja de seu interesse.
 
