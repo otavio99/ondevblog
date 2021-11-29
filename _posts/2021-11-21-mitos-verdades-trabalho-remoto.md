@@ -2,6 +2,7 @@
 layout: post
 title: 6 fatos que você deve saber antes de tentar ganhar dinheiro online
 subtitle: Aprenda a diferenciar oportunidades reais de fraudes e consiga uma boa fonte de renda alternativa
+published: false
 tags: [remoto, trabalho]
 ---
 
@@ -30,9 +31,15 @@ isso seja de seu interesse.
 -------
 
 ### Fato 1 - a ideia de **ganhar dinheiro online** é bem enganosa
+
 ### Fato 2 - quando a recompensa é alta e fácil, desconfie
+
 ### Fato 3 - o seu ganho é diretamente proporcional ao seu empenho
+
 ### Fato 4 - a oportunidade não vai bater na sua porta
+
 ### Fato 5 - existe várias formas de **trabalhar pela internet**
+
 ### Fato 6 - Você não precisa ou deve pagar para ter uma oportunidade real
+
 ### *Bonus - Como dar o primeiro passo
