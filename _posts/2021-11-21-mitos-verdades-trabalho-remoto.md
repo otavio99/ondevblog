@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 fatos que você deve saber antes de tentar ganhar dinheiro online
+title: 6 fatos que você deve saber antes de tentar ganhar dinheiro pela internet
 subtitle: Aprenda a diferenciar oportunidades reais de fraudes e consiga uma boa fonte de renda alternativa
 published: false
 tags: [remoto, trabalho]
@@ -13,10 +13,10 @@ em uma página duvidosa anunciando um curso auto-intitulado "incrível" (nunca c
 propósito).
 
 Acontece que nem tudo é uma tentativa descarada de arrancar dinheiro de você, existe oportunidades reais para quem está a fim de arregaçar as mangas e por a mão na massa.
-Porém, é preciso deixar claro certos fatos a respeito de **como ganhar diheiro online**, ou melhor, **como trabalhar online**.
+Porém, é preciso deixar claro certos fatos a respeito de como ganhar dinheiro pela internet, ou melhor, **como trabalhar pela internet**.
 
 Neste post irei abordar:
-- [Fato 1 - a ideia de **ganhar dinheiro online** é bem enganosa](#fato-1---a-ideia-de-ganhar-dinheiro-online-é-bem-enganosa)
+- [Fato 1 - a ideia de **ganhar dinheiro pela internet** é bem enganosa](#fato-1---a-ideia-de-ganhar-dinheiro-pela-internet-é-bem-enganosa)
 - [Fato 2 - quando a recompensa é alta e fácil, desconfie](#fato-2---quando-a-recompensa-é-alta-e-fácil-desconfie)
 - [Fato 3 - o seu ganho é diretamente proporcional ao seu empenho](#fato-3---o-seu-ganho-é-diretamente-proporcional-ao-seu-empenho)
 - [Fato 4 - a oportunidade não vai bater na sua porta.](#fato-4---a-oportunidade-não-vai-bater-na-sua-porta)
@@ -30,7 +30,15 @@ isso seja de seu interesse.
 
 -------
 
-### Fato 1 - a ideia de **ganhar dinheiro online** é bem enganosa
+### Fato 1 - a ideia de **ganhar dinheiro pela internet** é bem enganosa
+
+É bem comum aparecer anúncios, ou pessoas, falando sobre como ganhar dinheiro pela internet. Você mesmo já deve ter se perguntando isso antes, e possívelmente ja pesquisou a respeito. Porém, usar o termo "ganhar dinheiro pela internet" pode sem querer te levar a ter a impressão errada sobre a coisa toda. Eu mesmo ja pensei dessa forma por um bom tempo e não é de se esperar que durante esse tempo eu consegui ganhar uns míseros centavos :(.
+
+A palavra **ganhar** pode dar a impressão de que talvez haja uma maneira fácil de ganhar esse dinheiro, que até mesmo possa haver alguém disposto a te dar esse dinheiro (já aviso que não, não é bem assim). Então, se não devo usar a palavra ganhar, que outra palavra seria? Seria a palavra **trabalhar** é claro.
+
+Encarar isso como **trabalhar** já te fará entender de primeira que não se trata de algo fácil e milagroso como tentam divulgar por ai. Você sabe que na vida real, para que alguém te pague ou te dê algo, você precisa fazer algo para essa pessoa, e na internet não é diferente. Então pare desde já de pesquisar como ganhar dinheiro pela internet e passe a pesquisar sobre **como trabalhar pela internet**.
+
+É comum desanimar com o pensamento de ter mais trabalho, mas dessa forma você estará mais próximo de oportunidades boas do que ruims. E por oportunidade ruims eu digo aquelas que envolvem você pagar uma quantia grande por um ensinamento misterioso e maravilhoso (que tem um cheirinho de fraude né).
 
 ### Fato 2 - quando a recompensa é alta e fácil, desconfie
 
