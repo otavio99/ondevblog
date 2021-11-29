@@ -2,7 +2,7 @@
 layout: post
 title: 6 fatos que você deve saber antes de tentar ganhar dinheiro pela internet
 subtitle: Aprenda a diferenciar oportunidades reais de fraudes e consiga uma boa fonte de renda alternativa
-published: true
+published: false
 tags: [remoto, trabalho]
 ---
 
