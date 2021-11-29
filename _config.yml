@@ -34,16 +34,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "otavio.nathanael@gmail.com"
+  # rss: false  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: otavio.nathanael.18
+  github: otavio99
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: otavio-nathanael
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -74,7 +74,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "ondev.tech"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -98,7 +98,7 @@ post_search: true
 navbar-col: "#368B85"
 navbar-text-col: "#D4ECDD"
 navbar-border-col: "#DDDDDD"
-page-col: "#F1E9E5"
+page-col: "#faf7f6"
 text-col: "#464660"
 link-col: "#112031"
 hover-col: "#404040"

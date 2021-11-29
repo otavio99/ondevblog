@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sobre
+subtitle: Um dev com tempo livre pra escrever coisas aleatórias com alguma relevância
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Meu nome é Otavio Nathanael e atualmente sou Desenvolvedor Web e Consultor. Me graduei em Tecnologia em Análise e Desenvolvimento de Sistemas pelas IFMS Campus Corumbá, e desde então eu tenho meio que surfado na onda do trabalho remoto.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Criei esse blog na tentativa de compartilhar minha experiência e o que eu tenho aprendido no mercado de trabalho remoto. Se você não está acostumado com o termo "trabalho remoto", é basicamente trabalhar de casa ou em qualquer lugar que tenha conexão de internet.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Se você tem um tempo livre talvez se interesse em saber sobre [como cheguei até aqui](mystory), você pode clicar [neste link e saber mais](mystory).

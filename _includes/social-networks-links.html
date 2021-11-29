@@ -14,7 +14,7 @@
 
 {%- if site.social-network-links.email -%}
   <li class="list-inline-item">
-    <a href="mailto:{{ site.social-network-links.email }}" title="Email me">
+    <a href="https://mail.google.com/mail/?view=cm&source=mailto&to={{ site.social-network-links.email }}" target="_blank" title="Email me">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fas fa-envelope fa-stack-1x fa-inverse"></i>
@@ -38,7 +38,7 @@
 
 {%- if site.social-network-links.facebook -%}
   <li class="list-inline-item">
-    <a href="https://www.facebook.com/{{ site.social-network-links.facebook }}" title="Facebook">
+    <a href="https://www.facebook.com/{{ site.social-network-links.facebook }}" target="_blank" title="Facebook">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-facebook fa-stack-1x fa-inverse"></i>
@@ -62,7 +62,7 @@
 
 {%- if site.social-network-links.github -%}
   <li class="list-inline-item">
-    <a href="https://github.com/{{ site.social-network-links.github }}" title="GitHub">
+    <a href="https://github.com/{{ site.social-network-links.github }}" target="_blank" title="GitHub">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-github fa-stack-1x fa-inverse"></i>
@@ -98,7 +98,7 @@
 
 {%- if site.social-network-links.linkedin -%}
   <li class="list-inline-item">
-    <a href="https://linkedin.com/in/{{ site.social-network-links.linkedin }}" title="LinkedIn">
+    <a href="https://linkedin.com/in/{{ site.social-network-links.linkedin }}" target="_blank" title="LinkedIn">
       <span class="fa-stack fa-lg" aria-hidden="true">
         <i class="fas fa-circle fa-stack-2x"></i>
         <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -275,7 +275,7 @@
     </a>
   </li>
 {%- endif -%}
-  
+
 {%- if site.social-network-links.medium -%}
   <li class="list-inline-item">
     <a href="https://medium.com/@{{ site.social-network-links.medium }}" title="Medium">
