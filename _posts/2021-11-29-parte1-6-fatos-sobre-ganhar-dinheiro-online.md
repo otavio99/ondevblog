@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parte 1 - 6 fatos que você precisa saber antes de tentar ganhar dinheiro na internet
+title: Parte 1 - 6 fatos sobre como ganhar dinheiro pela internet
 subtitle: Aprenda a diferenciar oportunidades reais de fraudes e consiga uma boa fonte de renda alternativa
 published: true
 tags: [remoto, trabalho]
