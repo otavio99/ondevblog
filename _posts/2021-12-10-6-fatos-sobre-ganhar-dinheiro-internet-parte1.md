@@ -14,6 +14,8 @@ propósito).
 
 Acontece que nem tudo é uma tentativa descarada de arrancar dinheiro de você, existe oportunidades reais para quem está a fim de arregaçar as mangas e por a mão na massa. Porém, é preciso deixar claro certos fatos a respeito de como ganhar dinheiro pela internet, ou melhor, **como trabalhar pela internet**.
 
+![meu](/assets/img/money-dont-touch.gif){: .mx-auto.d-block :}
+
 Neste post irei abordar:
 - [Fato 1 - a ideia de ganhar dinheiro na internet é perigosa](#fato-1---a-ideia-de-ganhar-dinheiro-na-internet-é-perigosa)
 - [Fato 2 - quando a recompensa é alta, desconfie](#fato-2---quando-a-recompensa-é-alta-desconfie)
