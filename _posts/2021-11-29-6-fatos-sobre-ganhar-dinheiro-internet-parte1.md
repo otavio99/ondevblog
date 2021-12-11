@@ -43,7 +43,7 @@ O primeiro deles é a necessidade de desconfiar quando a recompensa é maior que
 
 O segundo significado é de estrema importância, visto que considera a sua capacidade de competência. Por exemplo, quando a trabalho demais para fazer, questione a si mesmo se você está pronto para esse enorme responsabilidade e esforço mental. Não vai ser a primeira e nem a última vez que vamos pensar em ganhar mais e fazer mais, porém é preciso ter ciência das suas próprias habilidades.
 
-Existe um efeito chamado Dunning-Kruger, que explica sobre uma pessoa que conhece algum determinado tópico, e por isso, tende a achar que sabe tudo sobre a área em questão. Tem um artigo do Super Interessante, que você pode checar neste link, que explica um pouco mais a respeito deste assunto. Entender este efeito é importante, uma vez que nos torna mais consciente de nossas falas equivocadas e decisão precipitadas, especialmente em situações em que você não está preparado para lidar com as consequências.
+Existe um efeito chamado **Dunning-Kruger**, que explica sobre uma pessoa que conhece algum determinado tópico, e por isso, tende a achar que sabe tudo sobre a área em questão. Tem um artigo do Super Interessante, que você pode checar [neste link](https://super.abril.com.br/comportamento/o-efeito-dunning-kruger-quanto-menos-uma-pessoa-sabe-mais-ela-acha-que-sabe/), que explica um pouco mais a respeito deste assunto. Entender este efeito é importante, uma vez que nos torna mais consciente de nossas falas equivocadas e decisão precipitadas, especialmente em situações em que você não está preparado para lidar com as consequências.
 
 Então, antes de ir atrás uma oportunidade que dê um grande retorno, faça uma avaliação honesta de si mesmo e tente entender se você está a altura. Assim, você pode reduzir sua exposição a circunstâncias estressantes e, principalmente, evitar grandes problema a seu cliente ou contratador. Você com certeza não quer ficar com a sua imagem queimada no mercado.
 
@@ -51,7 +51,7 @@ Então, antes de ir atrás uma oportunidade que dê um grande retorno, faça uma
 
 Este é outro fato que já deveria ser senso comum para maioria das pessoas. Conseguir ganhar bastante dinheiro fazendo pouco é o sonho de muita gente. Afinal, quem é que quer ter que trabalhar até ficar exausto pelo resto da vida?
 
-Porém, a realidade é que não existe uma forma fácil pra ganhar muito dinheiro. Se você sabe de alguma fique a vontade para me contar ou discordar de mim, masas chances são que dificilmente seja algo verídico, algo lícito ou algo 100% certo (loteria é um exemplo de ganhar dinheiro fácil mas que depende e muito da sorte). Pensar em sempre ganhar mais é algo bom na verdade, nunca se envergonhe disso, mas não se iluda ao pensar que existe alguma forma fácil de fazer isso.
+Porém, a realidade é que **não existe uma forma fácil** pra ganhar muito dinheiro. Se você sabe de alguma fique a vontade para me contar ou discordar de mim, mas as chances são que dificilmente seja algo verídico, algo lícito ou algo 100% certo (loteria é um exemplo de ganhar dinheiro fácil mas que depende muito da sorte). Pensar em sempre ganhar mais é algo bom na verdade, nunca se envergonhe disso, mas não se iluda ao pensar que existe alguma forma fácil de fazer isso.
 
 Existe, contudo, uma possibilidade que você encontre algo para fazer no qual você seja muito bom e que paguem bem por isso. Isso pode te levar a pensar que é fácil ganhar dinheiro, quando na realidade você apenas tem uma facilidade para realizar o trabalho ou a tarefa. É igual na escola, quando temos pessoas que são boas com números, mas péssimas em interpretação de textos, e vice- versa.
 
@@ -59,9 +59,9 @@ No fim, tal capacidade não é válida para todo mundo e maioria de nós, meros 
 
 Hoje em dia ficou mais fácil de aprender uma nova habilidade do que antigamente, antes da popularização da internet. Conhecimento tinha um preço alto e não era todo mundo que nascia em berço de ouro ou que dava sorte de ter a oportunidade de aprender. Mas hoje você pode entrar no google ou no youtube e certamente você encontrará conteúdo gratuito para a sua área de interesse. Claro que não vai ser 100% fácil, mas já não é tão impossível quanto antes.
 
-Não se desanime, existe formas de ficar bom em algo de maneira mais rápida e mais fácil que o normal. Há vários estudos, que você pode procurar, realizado por pessoas interessadas em achar certos atalhos e métodos que possibilitem alguém aprender muito mais rápido que o normal. Têm esses dois artigos que recomendo, um é do blog da talentnetwork e o outro é do próximos concursos. Eles vão te dar uma boa noção sobre como estudar ou aprender mais rápido, de forma eficaz e eficiente.
+Não se desanime, existe formas de ficar bom em algo de maneira mais rápida e mais fácil que o normal. Há vários estudos, que você pode procurar, realizado por pessoas interessadas em achar certos atalhos e métodos que possibilitem alguém aprender muito mais rápido que o normal. Têm esses dois artigos que recomendo, um é do blog da [talentnetwork](https://rockcontent.com/br/talent-blog/como-aprender-rapido/) e o outro é do [próximos concursos](https://www.proximosconcursos.com/como-aprender-mais-rapido/). Eles vão te dar uma boa noção sobre como estudar ou aprender mais rápido, de forma eficaz e eficiente.
 
-Eu por exemplo, consegui encontrar dicas e abordagens que me ajudaram tanto a aprender de forma mais rápida quanto de forma menos cansativa. Por serem coisas simples de se fazer, eu passei a investir mais tempo nelas, enquanto estudava gramática através dos seus textos.
+Eu por exemplo, consegui encontrar [dicas](https://www.youtube.com/watch?v=b3hAE_RQjJ8) e [abordagens](https://www.youtube.com/watch?v=STq7LERwZOw) que me ajudaram tanto a aprender de forma mais rápida quanto de forma menos cansativa. Por serem coisas simples de se fazer, eu passei a investir mais tempo nelas, enquanto estudava gramática através dos seus textos.
 
 ----
 
