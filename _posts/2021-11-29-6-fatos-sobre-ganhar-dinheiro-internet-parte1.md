@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 fatos sobre como ganhar dinheiro pela internet - Parte 1
+title: 6 fatos que você precisa saber antes de começar a trabalhar pela internet - Parte 1
 subtitle: Aprenda a diferenciar oportunidades reais de fraudes e consiga uma boa fonte de renda alternativa
 published: true
 tags: [remoto, trabalho]
@@ -8,33 +8,32 @@ tags: [remoto, trabalho]
 
 Se você é alguém com certa experiência no mundo online, já deve ter se deparado
 com esses anúncios um tanto quanto duvidosos de pessoas que fazem mais de 50 mil
-por mês sem sair de casa. Confesso que eu já cliquei em tais anuncios e acabei
-em uma página duvidosa anunciando um curso auto-intitulado "incrível" (nunca comprei um desses a
+por mês sem sair de casa. Confesso que eu já cliquei em tais anúncios e acabei
+em uma página duvidosa anunciando um curso autointitulado "incrível" (nunca comprei um desses a
 propósito).
 
-Acontece que nem tudo é uma tentativa descarada de arrancar dinheiro de você, existe oportunidades reais para quem está a fim de arregaçar as mangas e por a mão na massa.
-Porém, é preciso deixar claro certos fatos a respeito de como ganhar dinheiro pela internet, ou melhor, **como trabalhar pela internet**.
+Acontece que nem tudo é uma tentativa descarada de arrancar dinheiro de você, existe oportunidades reais para quem está a fim de arregaçar as mangas e por a mão na massa. Porém, é preciso deixar claro certos fatos a respeito de como ganhar dinheiro pela internet, ou melhor, **como trabalhar pela internet**.
 
 Neste post irei abordar:
 - [Fato 1 - a ideia de ganhar dinheiro na internet é perigosa](#fato-1---a-ideia-de-ganhar-dinheiro-na-internet-é-perigosa)
 - [Fato 2 - quando a recompensa é alta, desconfie](#fato-2---quando-a-recompensa-é-alta-desconfie)
 - [Fato 3 - o seu ganho é diretamente proporcional ao seu empenho](#fato-3---o-seu-ganho-é-diretamente-proporcional-ao-seu-empenho)
 
-É eu sei que o título deste post diz 6 fatos, mas pra não ficar uma leitura muito longa e cansativa, eu dividi o post em dois. Na segunda parte eu vou falar sobre mais 3 fatos e como um bonus, dar uma dica de como dar o primeiro passo para poder trabalhar pela internet e gerar uma boa fonte de renda complementar ou principal.
+É eu sei que o título deste post diz 6 fatos, mas pra não ficar uma leitura muito longa e cansativa, eu dividi o post em dois. Na segunda parte eu vou falar sobre mais 3 fatos e como um bônus, dar uma dica de como dar o primeiro passo para poder trabalhar pela internet e gerar uma boa fonte de renda complementar ou principal.
 
 -------
 
 ### Fato 1 - a ideia de ganhar dinheiro na internet é perigosa
 
-É bem comum aparecer anúncios, ou pessoas, falando sobre como ganhar dinheiro pela internet. Você mesmo já deve ter se perguntando isso antes, e possívelmente ja pesquisou a respeito. Porém, usar o termo "ganhar dinheiro pela internet" pode sem querer te levar a ter a impressão errada sobre a coisa toda, o que é muito comum.
+É bem comum aparecer anúncios, ou pessoas, falando sobre como ganhar dinheiro pela internet. Você mesmo já deve ter se perguntando isso antes, e possivelmente já pesquisou a respeito. Porém, usar o termo “ganhar dinheiro pela internet” pode sem querer te levar a ter a impressão errada sobre a coisa toda, o que é muito comum.
 
-Estou falando da impressão de que talvez haja uma maneira fácil e simples de obter algo, esse algo sendo o dinheiro. De fato, é essa impressão que muitos golpistas tentam ou tentarão provocar em você a fim de que você se torne mais uma vítima deles. Por isso eu recomendo que você pare de pensar em **como ganhar dinheiro na internet** e passe a pensar mais em **como trabalhar pela internet**. O dinheiro que você receberá sera uma consequência do seu trabalho.
+Estou falando da impressão de que talvez haja uma maneira fácil e simples de obter algo, esse algo sendo o dinheiro. De fato, é essa impressão que muitos golpistas tentam ou tentarão provocar em você a fim de que você se torne mais uma vítima deles. Por isso eu recomendo que você pare de pensar em como ganhar dinheiro na internet e passe a pensar mais em como trabalhar pela internet. O dinheiro que você receberá sera uma consequência do seu trabalho.
 
 Encarar isso como trabalho já te fará entender de primeira que não se trata de algo fácil e milagroso como tentam divulgar por ai. Você sabe que na vida real, para que alguém te pague ou te dê algo, você precisa fazer algo em troca, e na internet não é diferente.
 
-É comum desanimar com o pensamento de ter mais trabalho, mas dessa forma você estará mais próximo de oportunidades boas do que ruims. E por oportunidade ruims eu digo aquelas que envolvem você pagar uma quantia grande por um ensinamento misterioso e maravilhoso (que tem um cheirinho de fraude né).
+É comum desanimar com o pensamento de ter mais trabalho, mas dessa forma você estará mais próximo de oportunidades boas do que ruins. E por oportunidade ruins eu digo aquelas que envolvem você pagar uma quantia grande por um ensinamento misterioso e maravilhoso (que tem um cheirinho de fraude né).
 
-E mais uma coisa, não pense que todos que falam sobre ganhar dinheiro pela internet sejam algum golpistas ou alguém tentando te enganar. Acontece que o termo ganhar ja é comum e é mais popular, e por isso mesmo que alguém esteja se referindo a trabalhar pela internet, eles podem acabar falando ganhar dinheiro pela internet.
+E mais uma coisa, não pense que todos que falam sobre ganhar dinheiro pela internet sejam algum golpistas ou alguém tentando te enganar. Acontece que o termo ganhar já é comum e é maispopular, e por isso mesmo que alguém esteja se referindo a trabalhar pela internet, eles podem acabar falando ganhar dinheiro pela internet.
 
 ### Fato 2 - quando a recompensa é alta, desconfie
 
