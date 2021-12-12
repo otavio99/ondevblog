@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 6 fatos que você precisa saber antes de começar a trabalhar pela internet - Parte 1
-subtitle: Entenda um pouco mais sobre esse novo jeito de trabalhar
+title: 6 fatos sobre o trabalho remoto - Primeira Parte
+subtitle: Entenda um pouco mais antes de começar a trabalhar pela internet
 published: true
 tags: [remoto, trabalho]
 ---
