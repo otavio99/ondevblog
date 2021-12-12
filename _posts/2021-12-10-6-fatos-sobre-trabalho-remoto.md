@@ -8,8 +8,8 @@ tags: [remoto, trabalho]
 
 Se você é alguém com certa experiência no mundo online, já deve ter se deparado
 com esses anúncios um tanto quanto duvidosos de pessoas que fazem mais de 50 mil
-por mês sem sair de casa. Confesso que eu já cliquei em tais anúncios e acabei
-em uma página duvidosa anunciando um curso autointitulado "incrível" (nunca comprei um desses a
+por mês sem sair de casa. Confesso que eu já cliquei em alguns desses anúncios e acabei
+em uma página duvidosa anunciando um curso "incrível" (nunca comprei um desses a
 propósito).
 
 Acontece que nem tudo é uma tentativa descarada de arrancar dinheiro de você, existe oportunidades reais para quem está a fim de arregaçar as mangas e por a mão na massa. Porém, é preciso deixar claro certos fatos a respeito de como ganhar dinheiro pela internet, ou melhor, **como trabalhar pela internet**.
