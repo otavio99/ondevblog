@@ -21,7 +21,7 @@ Neste post irei abordar:
 - [Fato 2 - quando a recompensa é alta, desconfie](#fato-2---quando-a-recompensa-é-alta-desconfie)
 - [Fato 3 - o seu ganho é diretamente proporcional ao seu empenho](#fato-3---o-seu-ganho-é-diretamente-proporcional-ao-seu-empenho)
 
-É eu sei que o título deste post diz 6 fatos, mas pra não ficar uma leitura muito longa e cansativa, eu dividi o post em dois. Na segunda parte eu vou falar sobre mais 3 fatos e como um bônus, dar uma dica de como dar o primeiro passo para poder trabalhar pela internet e gerar uma boa fonte de renda complementar ou principal.
+É eu sei que o título deste post diz 6 fatos, mas para não ficar uma leitura muito longa e cansativa, eu dividi o post em dois. Na segunda parte eu vou falar sobre mais 3 fatos e como um bônus, dar uma dica de como dar o primeiro passo para poder trabalhar pela internet e gerar uma boa fonte de renda complementar ou principal.
 
 -------
 
