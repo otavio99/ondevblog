@@ -16,6 +16,8 @@ Acontece que nem tudo é uma tentativa descarada de arrancar dinheiro de você, 
 
 ![meu](/assets/img/money-dont-touch.gif){: .mx-auto.d-block :}
 
+> **Nota:** O público alvo deste post são pessoas iniciantes ao trabalho remoto. Porém, caso você ja tenha alguma experiência no assunto, creio que ainda assim o conteúdo possa ser relevante a você.
+
 Neste post irei abordar:
 - [Fato 1 - a ideia de ganhar dinheiro na internet é perigosa](#fato-1---a-ideia-de-ganhar-dinheiro-na-internet-é-perigosa)
 - [Fato 2 - quando a recompensa é alta, desconfie](#fato-2---quando-a-recompensa-é-alta-desconfie)
