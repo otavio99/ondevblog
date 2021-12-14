@@ -14,7 +14,7 @@ propósito).
 
 Acontece que nem tudo é uma tentativa descarada de arrancar dinheiro de você, existe oportunidades reais para quem está a fim de arregaçar as mangas e por a mão na massa. Porém, é preciso deixar claro certos fatos sobre ganhar dinheiro pela internet, ou melhor, **trabalhar pela internet**.
 
-![meu](/assets/img/money-dont-touch.gif){: .mx-auto.d-block :}
+![greedy cat](/assets/img/money-dont-touch.gif){: .mx-auto.d-block :}
 
 > **Nota:** O público alvo deste post são pessoas iniciantes ao trabalho remoto. Porém, caso você ja tenha alguma experiência no assunto, creio que ainda assim o conteúdo possa ser relevante a você.
 
@@ -35,6 +35,8 @@ Estou falando da impressão de que talvez haja uma maneira fácil e simples de g
 
 Encarar isso como trabalho já te fará entender de primeira que não se trata de algo fácil e milagroso como divulgam por ai. Você sabe que na vida real, para que alguém te pague, você precisa fazer algo em troca, e na internet não é diferente.
 
+![work hard bro](/assets/img/deadline-work-hard.gif){: .mx-auto.d-block :}  
+
 É comum desanimar com o pensamento de ter mais trabalho, mas dessa forma você estará mais próximo de oportunidades boas do que das ruins.
 
 E mais uma coisa, não pense que todos que falam sobre ganhar dinheiro pela internet sejam algum golpistas ou alguém tentando te enganar. Acontece que fazer uso do termo ganhar já é comum e é mais popular. Então é sempre bom ser precavido e realista em relação a isso.
@@ -43,13 +45,15 @@ E mais uma coisa, não pense que todos que falam sobre ganhar dinheiro pela inte
 
 Este é provavelmente um fato que você já conhece, pois não se aplica somente ao contexto de procurar ou receber oportunidades de trabalho pela internet. Ainda assim, é válido ressaltar a importância desse fato, pois na prática ele pode ter basicamente dois significados.
 
-O primeiro deles é a necessidade de desconfiar quando a recompensa é maior que o trabalho ou tarefa a ser realizada por você. Quando nos encontramos nesta situação podemos sentir uma certa desconfiança. Nesse caso, é bom sempre desconfiar. É bem provável que haja uma certa "pegadinha" no meio disso, e com certeza você não quer receber uma surpresa desagradável.
+O primeiro deles é a necessidade de desconfiar quando a recompensa é maior que o trabalho ou tarefa a ser realizada por você. Quando nos encontramos nesta situação podemos sentir uma certa desconfiança. Nesse caso, é bom sempre desconfiar. É bem provável que haja uma certa "pegadinha" no meio disso, e com certeza você não quer receber uma surpresa desagradável. Então, "se a recompensa for alta, desconfie da oportunidade".
 
-O segundo significado é de extrema importância, visto que está relacionado à sua capacidade e competência. A realidade é que existem mercados crescentes, como o de tecnologia, onde se busca cada vez mais por trabalhadores remotos. Então não é de se espantar que uma oportunidade apareça pra você, e uma que pague realmente bem. Agora, o que deve se ter em mente é se você se encontra capacitado o suficiente para não só agarrar mas manter tal oportunidade.
+O segundo significado é de extrema importância, visto que está relacionado à sua capacidade e competência. A realidade é que existem mercados crescentes, como o de tecnologia, onde se busca cada vez mais por trabalhadores remotos. Então não é de se espantar que uma oportunidade apareça pra você, e uma que pague realmente bem. Agora, o que deve se ter em mente é se você se encontra capacitado o suficiente para não só agarrar mas manter tal oportunidade. Assim, "se a recompensa for alta, desconfie de sua própria capacidade"
 
 Por exemplo, quando há trabalho demais para fazer ou algo complexo, questione a si mesmo se você está pronto para assumir essa responsabilidade. Não vai ser a primeira e nem a última vez que tal oportunidade pode aparecer, porém é preciso ter ciência das suas próprias habilidades e capacidades para não acabar dando um passo maior que o alcance da sua perna.
 
-Existe um efeito chamado **Dunning-Kruger**, que explica que quanto menos uma pessoa sabe a respeito de um determinado tópico, mais ela está inclinada a achar que sabe e que o domina. Tem um artigo da **Super Interessante** que você pode checar [neste link](https://super.abril.com.br/comportamento/o-efeito-dunning-kruger-quanto-menos-uma-pessoa-sabe-mais-ela-acha-que-sabe/) que explica um pouco mais a respeito deste assunto. Entender este efeito é importante, uma vez que nos torna mais consciente de nossas falas equivocadas e decisões precipitadas, especialmente em situações em que você não está preparado para lidar com as consequências.
+![nice idea](/assets/img/feel-me-think-about-it.gif){: .mx-auto.d-block :}
+
+Existe um efeito chamado **Dunning-Kruger**, que explica que quanto menos uma pessoa sabe a respeito de um determinado tópico, mais ela está inclinada a achar que sabe e que o domina. Tem um artigo da **Super Interessante** que você pode checar [neste link](https://super.abril.com.br/comportamento/o-efeito-dunning-kruger-quanto-menos-uma-pessoa-sabe-mais-ela-acha-que-sabe/) que explica um pouco mais a respeito deste assunto. Entender este efeito é importante, uma vez que ele nos torna mais consciente de nossas falas equivocadas e decisões precipitadas, especialmente em situações em que você não está preparado para lidar com as consequências.
 
 Então, antes de ir atrás de uma oportunidade que dê um grande retorno, faça uma avaliação honesta de si mesmo e tente entender se você está a altura. Assim, você pode reduzir sua exposição a circunstâncias estressantes e, principalmente, evitar grandes problema ao seu cliente ou contratador. Você com certeza você não quer ficar com uma má reputação.
 
@@ -62,6 +66,9 @@ Porém, a realidade é que **não existe uma forma fácil** de ganhar muito dinh
 Existe, contudo, uma possibilidade que você encontre algo para fazer no qual você seja muito bom e que paguem bem por isso. Isso pode te levar a pensar que é fácil ganhar dinheiro, quando na realidade você apenas tem uma facilidade para realizar o trabalho ou a tarefa.
 
 No fim, tal capacidade não é válida para todo mundo e maioria de nós, meros mortais, temos que suar muito para aprender algo que seja relevante e requisitado o suficiente por outras pessoas. Porém isso não quer dizer que não possamos adquirir pelo menos um pouco dessa capacidade ao longo do tempo.
+
+![work hard bro](/assets/img/books-the-book.gif){: .mx-auto.d-block :}
+
 
 Hoje em dia ficou mais fácil de aprender uma nova habilidade do que antigamente, antes da popularização da internet. Conhecimento tinha um preço alto e não era todo mundo que nascia em berço de ouro ou que dava sorte de ter recursos à disposição. contudo, hoje em dia você pode entrar no Google ou no Youtube e certamente você encontrará conteúdo gratuito que possa te ajudar em seu aprendizado. Claro que não vai ser 100% fácil, mas já não é tão impossível e difícil quanto antes.
 
