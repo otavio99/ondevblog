@@ -67,10 +67,9 @@ Existe, contudo, uma possibilidade que você encontre algo para fazer no qual vo
 
 No fim, tal capacidade não é válida para todo mundo e maioria de nós, meros mortais, temos que suar muito para aprender algo que seja relevante e requisitado o suficiente por outras pessoas. Porém isso não quer dizer que não possamos adquirir pelo menos um pouco dessa capacidade ao longo do tempo.
 
-![work hard bro](/assets/img/books-the-book.gif){: .mx-auto.d-block :}
-
-
 Hoje em dia ficou mais fácil de aprender uma nova habilidade do que antigamente, antes da popularização da internet. Conhecimento tinha um preço alto e não era todo mundo que nascia em berço de ouro ou que dava sorte de ter recursos à disposição. contudo, hoje em dia você pode entrar no Google ou no Youtube e certamente você encontrará conteúdo gratuito que possa te ajudar em seu aprendizado. Claro que não vai ser 100% fácil, mas já não é tão impossível e difícil quanto antes.
+
+![work hard bro](/assets/img/books-the-book.gif){: .mx-auto.d-block :}
 
 Também, existe formas de ficar bom em algo de maneira mais rápida e mais fácil que o normal. Há vários estudos realizado por pessoas interessadas em achar certos atalhos e métodos que possibilitem alguém aprender muito mais rápido que o normal. Têm esses dois artigos que recomendo, um é do blog da [Talentnetwork](https://rockcontent.com/br/talent-blog/como-aprender-rapido/) e o outro é do [Próximos Concursos](https://www.proximosconcursos.com/como-aprender-mais-rapido/), onde você poderá aprender algumas técnicas e boas práticas para acelerar seu aprendizado.
 
