@@ -54,7 +54,7 @@ a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
 }
 blockquote {
-  color: #808080;
+  color: {{site.quote-text-col}};
   font-style: italic;
 }
 blockquote p:first-child {
@@ -66,6 +66,7 @@ hr.small {
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
+  color: {{site.hr-col}};
 }
 
 /* fix in-page anchors to not be behind fixed header */
@@ -371,7 +372,7 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 1px #EAEAEA solid;
+  border-top: 1px {{ site.footer-border-col | default: "#EAEAEA" }} solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
@@ -469,9 +470,12 @@ footer .footer-custom-content {
   font-weight: 300;
   margin-bottom: 0.625rem;
 }
+.post-heading {
+  color: {{site.head-text-col}};
+}
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: {{site.notice-text-col}};
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -659,11 +663,17 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 3.125rem;
+  color: {{ site.head-text-col}};
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
   font-size: 2.1875rem;
 }
+
+.page-subheading {
+  color: {{ site.head-text-col}};
+}
+
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
   font-size: 1.6875rem;
@@ -981,7 +991,7 @@ pre {
   max-width: 25%;
   border-width: 0.25rem;
   border-radius: 0.1875rem;
-  border-color: #808080;
+  border-color: {{site.hr-col}};
 }
 
 .blog-post blockquote {

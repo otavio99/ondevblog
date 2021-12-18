@@ -41,19 +41,27 @@
      id="layer3">
     <text
        xml:space="preserve"
-       id="text1520"
-       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1522);fill:#aab1bd;fill-opacity:1;stroke:none;"
-       transform="matrix(0.86251093,0,0,1,-9.8861723,-14.059202)"><tspan
-         x="14.375"
-         y="75.19414"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:monospace;-inkscape-font-specification:monospace;fill:#aab1bd;fill-opacity:1">~$_</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        id="text1526"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;line-height:1.25;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1528);" />
+    <rect
+       style="display:inline;opacity:1;fill:#282c34;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0117647"
+       id="rect1570"
+       width="95.910271"
+       height="96.342766"
+       x="0.4096255"
+       y="-0.1623598" />
   </g>
   <g
      id="layer2"
      transform="translate(-39.804965,-56.159621)"
-     style="display:inline" />
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       id="text1520"
+       style="font-style:normal;font-weight:normal;font-size:50.8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1522);fill:#aab1bd;fill-opacity:1;stroke:none;"
+       transform="matrix(0.86251092,0,0,1,29.918793,42.100419)"><tspan
+         x="14.375"
+         y="75.19414"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:monospace;-inkscape-font-specification:monospace;fill:#aab1bd;fill-opacity:1">~$_</tspan></tspan></text>
+  </g>
 </svg>
