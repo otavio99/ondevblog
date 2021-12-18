@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 fatos sobre o trabalho remoto - Parte 1
-subtitle: Entenda um pouco mais sobre o trabalho pela internet
+subtitle: Entenda um pouco mais sobre o assunto e fique a um passo de conseguir uma boa renda alternativa ou principal
 published: true
 tags: [remoto, trabalho]
 ---
