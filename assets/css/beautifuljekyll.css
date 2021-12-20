@@ -447,12 +447,6 @@ footer .footer-custom-content {
   padding: 20px;
 }
 
-@media (min-width: 768px) {
-  .post-preview {
-    padding: 2.1875rem 0;
-  }
-}
-
 .post-preview:last-child {
   border-bottom: 0;
 }
