@@ -434,7 +434,6 @@ footer .footer-custom-content {
 /* --- Post preview (feed) --- */
 
 .post-preview {
-  padding: 1.25rem 0;
   border-bottom: 1px solid #eee;
   overflow: hidden;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
