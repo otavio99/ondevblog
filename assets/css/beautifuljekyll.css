@@ -442,6 +442,12 @@ footer .footer-custom-content {
   padding: 20px;
 }
 
+.post-body {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  padding: 20px;
+}
+
 @media (min-width: 768px) {
   .post-preview {
     padding: 2.1875rem 0;
