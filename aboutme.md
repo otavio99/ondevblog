@@ -4,9 +4,9 @@ title: Sobre
 subtitle: Um dev com tempo livre pra escrever coisas aleatórias com alguma relevância
 ---
 
-Olá, meu nome é Otavio Nathanael e atualmente sou Desenvolvedor Web e Consultor. Nos últimos tempos venho tentando ser empreendedor através da O. N. Soluções de Software (ONSS) que ainda está engatinhando.
+Olá, meu nome é [Otavio Nathanael](www.linkedin.com/in/otavio-nathanael) e atualmente sou Desenvolvedor Web e Consultor. Nos últimos tempos venho tentando empreender através da O. N. Soluções de Software (ONSS), que segue firme por hora😅.
 
-Criei esse blog na tentativa de compartilhar minha experiência, o que eu tenho aprendido no mercado de trabalho remoto, e um pouco sobre meus empreendimentos. Não creio que tenho o suficiente ainda para fazer o conteúdo desse blog extremamente relevante, mas talvez algo que eu escreva vá fazer uma pequena diferença para alguém, e isso ja está de bom tamanho.
+Criei esse blog para compartilhar as minhas experiências, o que eu tenho aprendido no mercado de trabalho remoto e em meus empreendimentos. Assim, pense neste blog como a minha maneira de contribuir para a comunidade, algo que tem me motivado a aprender mais na realidade.
 
 <!-- Se você tem um tempo livre talvez se interesse em saber sobre [como cheguei até aqui](/mystory), você pode clicar [neste link e saber mais](/mystory). -->
 
