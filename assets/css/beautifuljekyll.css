@@ -661,7 +661,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
   padding: 6.25rem 0;
-  text-shadow: 2px 2px 1px black;
+  text-shadow: 2.5px 2.5px 5px black;
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
@@ -691,7 +691,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
-  font-weight: 400;
+  font-weight: 600;
 }
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
