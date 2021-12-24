@@ -13,10 +13,11 @@ Se você ja tentou obter uma posição de desenvolvedor em alguma empresa, ou j�
 
 O **Git** é amplamente aceito na comunidade dev e têm se tornado a cada dia uma ferramenta mais que obrigatória na hora de desenvolver uma aplicação. Também se tornou um critério indispensável utilizado empresas na contratação de desenvolvedores de vários níveis (principalmente os juniors).
 
-Então, se você não sabe o que é **Git**. ou sabe pouco sobre essa ferramenta, eu sugiro que você comece a se preocupar. Não saber Git vai você esbarrar em um muro de dificuldades na hora de contribuir tanto em projetos comerciais, quanto open source.
+Então, se você não sabe o que é **Git**. ou sabe pouco sobre essa ferramenta, eu sugiro que você comece a se preocupar. Não saber Git vai fazer você esbarrar em um muro de dificuldades na hora de contribuir tanto em projetos comerciais, quanto open source.
 
 ![oops](/assets/img/vettel-in.gif){: .mx-auto.d-block :}
 
+Também iremos ver sobre o **Gitflow** e entender como ele pode nos ajudar a aprender e entender o Git.
 
 Neste poste irei abordar:
 - O que é Git?
