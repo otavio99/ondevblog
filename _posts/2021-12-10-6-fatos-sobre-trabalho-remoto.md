@@ -5,6 +5,7 @@ subtitle: Entenda um pouco mais sobre o assunto e fique a um passo de conseguir 
 cover-img: /assets/img/6fatostrabalhoremotobanner.jpg
 share-img: /assets/img/6fatostrabalhoremotobanner.jpg
 published: true
+readtime: true
 tags: [remoto, trabalho]
 ---
 
