@@ -2,8 +2,8 @@
 layout: post
 title: Aprenda o Git de forma mais rápida através do Gitflow
 subtitle: Veja como o git funciona na prática e aprenda a utilizá-lo de maneira eficaz
-cover-img: /assets/img/6fatostrabalhoremotobanner.jpg
-share-img: /assets/img/6fatostrabalhoremotobanner.jpg
+cover-img: /assets/img/gitegitflow.jgp
+share-img: /assets/img/gitegitflow.jgp
 published: false
 readtime: true
 tags: [git, desenvolvimento]
