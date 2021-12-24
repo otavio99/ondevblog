@@ -434,7 +434,7 @@ footer .footer-custom-content {
 /* --- Post preview (feed) --- */
 
 .post-preview {
-  border-bottom: 1px solid #eee;
+  margin-bottom: 20px; 
   overflow: hidden;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
