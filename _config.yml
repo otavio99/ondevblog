@@ -15,6 +15,7 @@ author: Otavio Nathanael
 
 navbar-links:
   Sobre: "aboutme"
+  Categorias: 'tags'
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -104,7 +105,7 @@ head-text-col: "#5aa1db"
 link-col: "#db6a73"
 hover-col: "#db6a73"
 footer-col: "#21252b"
-pagination-col: "#b98a5e"
+button-col: "#b98a5e"
 footer-text-col: "#b98a5e"
 footer-link-col: "#b98a5e"
 footer-hover-col: "#db6a73"

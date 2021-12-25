@@ -17,15 +17,29 @@ Então, se você não sabe o que é **Git**. ou sabe pouco sobre essa ferramenta
 
 ![oops](/assets/img/vettel-in.gif){: .mx-auto.d-block :}
 
-Também iremos ver sobre o **Gitflow** e entender como ele pode nos ajudar a aprender e entender o Git.
+Também iremos ver sobre o **Gitflow** e entender como ele pode nos ajudar a aprender o Git de forma máis prática e eficiente.
 
 Neste poste irei abordar:
 - O que é Git?
 - O que é o Gitflow?
 
 ### O que é Git?
-Se olharmos a página oficial do git, veremos que git é definido como um **sistema de controle de versão** open source e gratuito projetado para cuidar de projetos tanto pequenos quanto grandes.
+Se olharmos a página oficial do git, veremos que git é definido como um **sistema de controle de versão** open source e gratuito desenvolvido para cuidar de projetos tanto pequenos quanto grandes.
 
-O git é utilizado para controlar as versões de um projeto e manter mudanças que precisam ser realizadas. Na prática você tem uma série de comandos que podem tanto ser executados pela linha de comando ou por uma aplicação gráfica como o [GitKraken](https://www.gitkraken.com/).
+O git é utilizado para controlar as versões de um projeto e manter mudanças que precisam ser realizadas. Na prática você tem uma série de comandos que podem tanto ser executados pela linha de comando quanto por uma aplicação gráfica como o [GitKraken](https://www.gitkraken.com/).
+
+Existe vários comandos no git que você pode utilizar, mas de fato apenas poucos são utilizados no coditiano, embora que o restante não seja inútil mas sim reservados para situações muito específicas. Os seguinte comandos estão dentre os mais utilizados:
+
+- git status
+- git checkout
+- git branch
+- git pull
+- git push
+- git reset
+- git revert
+- git merge
+- git diff
+
+Na prática todos esses comandos são simples e possuem um uso bem definido. Embora muitos acreditem na necessidade de decorar e dominar o uso de cada comando, na realidade você não precisa se preocupar em lembrar deles tanto assim.
 
 ### O que é o Gitflow?
