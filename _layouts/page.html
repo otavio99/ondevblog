@@ -7,7 +7,7 @@ layout: base
 <script type="text/javascript">
   fetch('https://another-hello.onss.workers.dev/')
   .then(response => {
-    return response.json()
+    return response.text()
   }).then(data => {
     console.log(data)
   })
