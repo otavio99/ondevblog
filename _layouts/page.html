@@ -6,7 +6,7 @@ layout: base
 
 <script type="text/javascript">
   fetch('https://another-hello.onss.workers.dev/')
-  .then(response => console.log(response))
+  .then(response => console.log(response.body))
 </script>
 
 <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
