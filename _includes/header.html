@@ -71,7 +71,7 @@
             {% endif %}
           {% endif %}
 
-          {% if include.type == "post" %}
+          {% if include.type == "post" and page.isLandingPage == false %}
             <span class="post-meta">Postado em {{ page.date | date: date_format }}</span>
 
             {% if page.last-updated %}
