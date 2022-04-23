@@ -11,7 +11,7 @@ social-share: true
 tags: []
 ---
 
-O projeto duto visa desenvolver um sistema de recompensas, que visa incentivar pessoas a contribuirem em causas sociais.
+O projeto recompensa social (RSocial) visa desenvolver um sistema de recompensas, que visa incentivar pessoas a contribuirem em causas sociais.
 
 ![oops](/assets/img/Success-3-scaled.jpg){: .mx-auto.d-block :}
 
