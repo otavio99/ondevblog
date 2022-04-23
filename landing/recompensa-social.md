@@ -1,16 +1,25 @@
 ---
 layout: landing-page
-title: Uma Landing page
+title: Projeto Recompensa Social
 redirect_from:
   - /recompensa-social
 published: true
 readtime: false
 isLandingPage: true
+social-share: true
 tags: []
 ---
 
-> Este post vai abordar o uso da Linguagem Gherkin e como ele torna mais fácil a colaboração entre diferentes profissionais dentro de um time.
+O projeto duto visa desenvolver um sistema de recompensas, que visa incentivar pessoas a contribuirem em causas sociais.
 
-Gherkin é uma linguagem que ajuda a estruturar textos simples que definem uma regra de negócio ou cenário de uso. Então ao invés de escrever em texto corrido ou listar requisitos e funcionalidades, pode-se usar o Gherkin para estruturar e contextualizar o texto tornando-o de fácil entendimento para todos os integrantes do projeto.
+![oops](/assets/img/Success-3-scaled.jpg){: .mx-auto.d-block :}
 
-![oops](/assets/img/vettel-in.gif){: .mx-auto.d-block :}
+O objetivo é criar um sistema de recompensas, onde para cada boa ação, o indivíduo receberá tokens que podem ser trocados por serviços e comodidades em um mercado digital (marketplace). Isto é, quando alguém doa para uma instituição de caridade (por exemplo), essa pessoa recebe um token que pode ser usado para adquirir um serviço relevante de um prestador integrante do mercado digital de serviços.
+
+O prestador de serviços será uma pessoa interessada em engajar nessa troca para divulgar seu trabalho e ganhar reconhecimento, assim como para receber tokens que também poderam ser usados para adiquirir serviços de outro colega prestador.
+
+Quer saber mais e ficar por dentro das últimas novidades? Assine nosso serviço para atualizações.
+
+[add widget in here]
+
+E não se esqueça de compartilhar!
