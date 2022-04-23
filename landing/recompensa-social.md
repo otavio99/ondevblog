@@ -2,6 +2,7 @@
 layout: landing-page
 title: Projeto Recompensa Social
 redirect_from:
+  - /recompensa-social/
   - /recompensa-social
 published: true
 readtime: false
