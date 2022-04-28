@@ -21,6 +21,6 @@ O prestador de serviços será uma pessoa interessada em engajar nessa troca par
 
 Quer saber mais e ficar por dentro das últimas novidades? Assine nosso serviço para atualizações.
 
-<a href="https://share.hsforms.com/1rNBBmtW4QkmwWVbKvaD0Zgd03w0" target="_blank">Assine Já!</a>
+<a href="https://share.hsforms.com/1rNBBmtW4QkmwWVbKvaD0Zgd03w0" target="_blank" class="btn btn-success">Assine Já!</a>
 
 E não se esqueça de compartilhar!
